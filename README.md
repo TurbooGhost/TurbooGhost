@@ -15,14 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 💫About Me :
+👨‍🎓 I am a CS Student
+
+❤️ I love Technology
+
+🧑‍💻 I'm the one who builds for the Web
+
+🎵 Listening to Music is love ❤️
+
+
+![Profile Picture](https://yourimageurl.com/yourimage.jpg)
+
+
+
+
+
+
 
 
 It's Just a Matter of Time #extremely_important 🤏
 
 Hi there 👋
-
+Nothing is more satisfying than getting your program to work.
     I'm currently working on something cool! 😉
     I'm currently learning new stuff everyday
 
-    Nothing is more satisfying than getting your program to work.
+   
 
