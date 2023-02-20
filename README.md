@@ -9,12 +9,19 @@
 
 🧑‍💻 I'm the one who builds for the Web
 
+    Learning new stuff everyday
+    Working on something cool! 😉
+    
+   
+** ** Nothing is more satisfying than getting your program to work.`rgb(9, 105, 218)`** **
+
+> It's Just a Matter of Time 🤏
+
 
 <div>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="650" height="300"/>
 </div>
 
-- Nothing is more satisfying than getting your program to work.
 
 
 
@@ -24,13 +31,6 @@
 
 
 
-
-It's Just a Matter of Time 🤏
-
-
-
-    I'm currently working on something cool! 😉
-    I'm currently learning new stuff everyday
 
       
 
