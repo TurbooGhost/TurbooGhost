@@ -39,8 +39,8 @@ It's Just a Matter of Time 🤏
 
 
 ### ✍️ Dev Quotes
-![] A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.
-- Danny Hillis
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 Weekly Profile Views - 
