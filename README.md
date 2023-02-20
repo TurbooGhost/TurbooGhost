@@ -9,32 +9,21 @@
 
 🧑‍💻 I'm the one who builds for the Web
 
-📚Languages: CSS,Javascript,NodeJs,Angular
 
-
-
-
-<!-- ![Profile Picture](https://yourimageurl.com/yourimage.jpg) -->
-
-
-
-
-
-
-
-> "The best way to predict the future is to invent it." - Alan Kay
-
-
-<blockquote>
-    <p>"The best way to predict the future is to invent it." - Alan Kay</p>
-</blockquote>
+<div>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="650" height="300"/>
+</div>
 
 
 
 
 
 
-It's Just a Matter of Time #extremely_important 🤏
+
+
+
+
+It's Just a Matter of Time 🤏
 
 Hi there 👋
 Nothing is more satisfying than getting your program to work.
@@ -51,8 +40,6 @@ Nothing is more satisfying than getting your program to work.
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="650" height="300"/>
 </div>
 
-## 🔗 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khalid.js?igshid=YmMyMTA2M2Y=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://-sardar-702ab9248) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Al-khalid) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@SauronClasher) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@SauronGamingAksm) <br>
 
 ![Snake animation](https://github.com/Tejender1521/Tejender1521/blob/output/github-contribution-grid-snake.svg)<img align="right"  alt="Header GIF" src="./code.gif" width="450" height="300" />
 
@@ -71,5 +58,5 @@ Weekly Profile Views -
 [![](https://visitcount.itsvg.in/api?id=alkhalidsardar&icon=1&color=2)](https://visitcount.itsvg.in)
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
