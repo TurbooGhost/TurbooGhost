@@ -16,15 +16,19 @@ Here are some ideas to get you started:
 -->
 
 ## 💫About Me :
+
 👨‍🎓 I am a CS Student 
+
 🔰Currently Learning Frontend Development
+
 🧑‍💻 I'm the one who builds for the Web
+
 📚Languages: CSS,Javascript,NodeJs,Angular
 
 
 
 
-![Profile Picture](https://yourimageurl.com/yourimage.jpg)
+<!-- ![Profile Picture](https://yourimageurl.com/yourimage.jpg) -->
 
 
 
