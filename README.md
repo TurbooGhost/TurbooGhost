@@ -22,4 +22,3 @@
 **Nothing is more satisfying than getting your program to work.** 
 
 > It's Just a Matter of Time 🤏
-> I'm currently working on something cool!
