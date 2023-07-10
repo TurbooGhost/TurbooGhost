@@ -1,13 +1,11 @@
 ### Hi there 👋
 
 
-## 💫About Me :
+## 💫About Me 👨‍🎓 :
 
 👨‍🎓 I am a CS Student 
 
-📖 Currently Learning Backend Development
-
-🧑‍💻 I'm the one who builds for the Web
+🧑‍💻 Currently Learning Backend Development
 
 
 <div>
