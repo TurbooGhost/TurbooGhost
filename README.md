@@ -5,7 +5,7 @@
 
 👨‍🎓 I am a CS Student 
 
-🌱Currently Learning Backend Development
+📖 Currently Learning Backend Development
 
 🧑‍💻 I'm the one who builds for the Web
 
